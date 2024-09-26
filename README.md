@@ -85,7 +85,7 @@ Proposed an optimal input mix based on cost-effectiveness and productivity trend
 
 The objective was to assess the impact of additional inputs on output and identify when diminishing returns occurred.
 
-![Example Image](data.png) <!-- Add the path to the image you want to upload -->
+![Example Image](MPOtime.png) <!-- Add the path to the image you want to upload -->
 
 The marginal product of crude oil diminishes significantly after an input threshold (around 2.5 million barrels), meaning that increasing crude oil beyond this point leads to reduced additional output. Labor shows stable returns, while energy inputs yield the highest incremental output.
 
