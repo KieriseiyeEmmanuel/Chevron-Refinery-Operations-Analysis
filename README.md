@@ -89,6 +89,8 @@ The objective was to assess the impact of additional inputs on output and identi
 
 The marginal product of crude oil diminishes significantly after an input threshold (around 2.5 million barrels), meaning that increasing crude oil beyond this point leads to reduced additional output. Labor shows stable returns, while energy inputs yield the highest incremental output.
 
+---
+
 #### Investigating Diminishing Returns
 
 ![Example Image](Diminishingreturns.png) <!-- Add the path to the image you want to upload -->
@@ -97,6 +99,8 @@ You can observe the point where increasing inputs start yielding lower marginal 
 which is indicative of diminishing returns. 
 For example, in May, crude oil input increased significantly, but the marginal product of crude oil 
 dropped to 0.600 barrels/barrel, implying that adding more crude oil isn't yielding proportionate output increases.
+
+---
 
 #### Correlation Analysis
 
@@ -127,7 +131,6 @@ Main Insights:
 3. Labor and Energy Substitution:
    - The strong positive correlation between labor cost and MP_Energy suggests that the refinery relies more heavily on energy efficiency when labor costs rise. This could indicate a **substitution effect where higher labor costs lead to increased reliance on energy to maintain output levels.
 
----
 
 Actionable Insights for Chevron:
 
