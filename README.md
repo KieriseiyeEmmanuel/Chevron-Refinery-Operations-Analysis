@@ -186,7 +186,9 @@ Insights:
 - Crude oil is the least cost-effective input, with a much higher cost per marginal product, indicating diminishing returns as crude oil costs rise.
 - Labor shows moderate cost-effectiveness, but its cost-effectiveness does not vary dramatically, implying stable but not exceptional returns relative to its cost.
 
+#### Limitaions
 
+Data Granularity: The dataset lacks sufficient granularity for a detailed elasticity of substitution analysis between different energy sources.
 
 
 
