@@ -81,7 +81,7 @@ Proposed an optimal input mix based on cost-effectiveness and productivity trend
 
 ---
 
-### Result and Recommendations
+### Results and Recommendations
 
 #### Marginal Product Analysis
 
