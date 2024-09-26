@@ -140,6 +140,8 @@ Actionable Insights for Chevron:
 3. Labor and Process Efficiency:
    - Rising labor costs reduce the efficiency of labor inputs. Automation or energy-intensive processes may become more attractive as labor becomes more expensive.
 
+---
+
 #### Elasticity of Substitution
 
 ![Example Image](Elasticityofsubstitution.png) <!-- Add the path to the image you want to upload -->
@@ -156,6 +158,7 @@ Recommendations:
 1. Focus on Operational Adjustments in June: Investigate why substitutability was difficult in Jun and address inefficiencies.
 2. Improve Energy Management: Negative elasticity in May and Jun suggests a need to optimize energy management.
 
+---
 
 #### Cost Optimization Strategy
 
@@ -186,11 +189,13 @@ Insights:
 - Crude oil is the least cost-effective input, with a much higher cost per marginal product, indicating diminishing returns as crude oil costs rise.
 - Labor shows moderate cost-effectiveness, but its cost-effectiveness does not vary dramatically, implying stable but not exceptional returns relative to its cost.
 
+---
+
 #### Limitaions
 
 Data Granularity: The dataset lacks sufficient granularity for a detailed elasticity of substitution analysis between different energy sources.
 
-
+---
 
 ```python
 # Example code snippet
