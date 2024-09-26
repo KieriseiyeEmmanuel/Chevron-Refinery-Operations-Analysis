@@ -91,7 +91,7 @@ The marginal product of crude oil diminishes significantly after an input thresh
 
 #### Investigating Diminishing Returns
 
-![Example Image](Diminishing returns.png) <!-- Add the path to the image you want to upload -->
+![Example Image](Diminishingreturns.png) <!-- Add the path to the image you want to upload -->
 
 You can observe the point where increasing inputs start yielding lower marginal products, 
 which is indicative of diminishing returns. 
@@ -100,7 +100,7 @@ dropped to 0.600 barrels/barrel, implying that adding more crude oil isn't yield
 
 #### Correlation Analysis
 
-![Example Image](Correlation heatmap.png) <!-- Add the path to the image you want to upload -->
+![Example Image](Correlationheatmap.png) <!-- Add the path to the image you want to upload -->
 
 1. Crude Oil Cost and Marginal Products:
    - Negative Correlation with MP_Crude_Oil: The correlation between crude oil cost and its marginal product (MP_Crude_Oil) is -0.51. This indicates that as crude oil prices increase, the refinery's efficiency in producing output from additional barrels of crude oil decreases. Essentially, higher crude oil prices lead to diminishing returns in crude oil input efficiency.
@@ -142,7 +142,7 @@ Actionable Insights for Chevron:
 
 #### Elasticity of Substitution
 
-![Example Image](Elasticity of substitution.png) <!-- Add the path to the image you want to upload -->
+![Example Image](Elasticityofsubstitution.png) <!-- Add the path to the image you want to upload -->
 
 Main Insights:
 
@@ -159,7 +159,7 @@ Recommendations:
 
 #### Cost Optimization Strategy
 
-![Example Image](Cost optimization.png) <!-- Add the path to the image you want to upload -->
+![Example Image](Costoptimization.png) <!-- Add the path to the image you want to upload -->
 
 1. Most Cost-Effective Input:
    - Across the months from February to June, energy consistently appears as the most cost-effective input.
