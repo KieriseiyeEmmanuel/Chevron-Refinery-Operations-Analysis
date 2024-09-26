@@ -79,6 +79,8 @@ Methodology:
 Combined price volatility data for crude oil, Energy and Labor.
 Proposed an optimal input mix based on cost-effectiveness and productivity trends.
 
+---
+
 ### Result and Recommendations
 
 #### Marginal Product Analysis
