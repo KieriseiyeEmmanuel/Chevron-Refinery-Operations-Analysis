@@ -196,7 +196,7 @@ Insights:
 
 ---
 
-#### Limitaions
+#### Limitations
 
 Data Granularity: The dataset lacks sufficient granularity for a detailed elasticity of substitution analysis between different energy sources.
 
