@@ -64,7 +64,7 @@ This analysis examined the relationship between the input Prices and Marginal Pr
 Methodology:
 Verified that all inputs (crude oil, labor, energy) Prices are related to Marginal Product.
 
-####Elasticity of Substitution
+#### Elasticity of Substitution
 The elasticity of substitution between crude oil and natural gas was calculated to determine how easily Chevron can switch between these energy sources without losing productivity.
 
 Methodology:
