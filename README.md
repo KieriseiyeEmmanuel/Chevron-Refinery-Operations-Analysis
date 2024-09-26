@@ -16,7 +16,6 @@ This is a practical analysis using a simulation of a real world scenario hence t
   - [Cost Optimization Strategy](#cost-optimization-strategy)
 - [Results and Recommendations](#results-and-recommendations)
 - [Limitations](#limitations)
-- [References](#references)
 
 ---
 
